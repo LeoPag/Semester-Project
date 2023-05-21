@@ -6,3 +6,6 @@ In this project, we evaluate the performances of the Soft Actor Critic algorithm
 
 ![Alt Text](Images/image1.jpg)
 ![Alt Text](Images/image2.png)
+
+<img src="Images/image1.jpg" width="300">
+<img src="Images/image2.png" width="300">

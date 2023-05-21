@@ -9,6 +9,6 @@ In this project, we evaluate the performances of the Soft Actor Critic algorithm
   <img src="Images/image2.png" width="400" alt="Image 2">
 </p>
 
-On the left, a simple representation of a Deep Reinforcement Learning algorithm. On the right, the final learned dispatch plan.
+*On the left, a simple representation of a Deep Reinforcement Learning algorithm. On the right, the final learned dispatch plan.*
 
 

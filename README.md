@@ -6,11 +6,9 @@ In this project, we evaluate the performances of the Soft Actor Critic algorithm
 
 <p>
   <img src="Images/image1.jpg" width="400" alt="Image 1">
-  <br>
   Simple Representation of a Deep Reinforcement Learning algorithm.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Images/image2.png" width="400" alt="Image 2">
-  <br>
   Final computed dispatch plan.
 </p>
 

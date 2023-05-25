@@ -1,4 +1,4 @@
-## Semester-Project
+## Semester Project
 
 # Abstract
 
